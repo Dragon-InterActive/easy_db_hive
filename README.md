@@ -149,14 +149,9 @@ Don't use it for:
 - ❌ Real-time sync (use `easy_db_firebase_realtime`)
 - ❌ Complex queries (consider SQLite or Firestore)
 
-## Hive Status
+## Hive Community Edition
 
-**Note**: Hive is no longer actively maintained (last update: 2021). While it's still stable and widely used, consider alternatives like:
-
-- `easy_db_shared_preferences` for simple key-value storage
-- `easy_db_sqlite` for complex local data (coming soon)
-
-However, Hive remains a solid choice for local storage with excellent performance.
+This package uses **Hive CE (Community Edition)** - an actively maintained continuation of Hive v2 with improved performance, Flutter WASM support, and isolate support. Hive CE is faster and more reliable than the original Hive package.
 
 ## License
 

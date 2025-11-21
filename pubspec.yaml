@@ -12,7 +12,8 @@ dependencies:
   flutter:
     sdk: flutter
   easy_db: ^1.0.0
-  hive_flutter: ^1.1.0
+  hive_ce: ^2.6.0
+  hive_ce_flutter: ^2.1.0
 
 dev_dependencies:
   flutter_test:
