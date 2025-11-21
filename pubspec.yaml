@@ -1,5 +1,5 @@
 name: easy_db_hive
-description: "A new Flutter package project."
+description: "Hive storage implementation for EasyDB. Provides fast, local key-value storage."
 version: 1.0.0
 homepage: https://github.com/Dragon-InterActive/easy_db_hive
 license: BSD-3-Clause
