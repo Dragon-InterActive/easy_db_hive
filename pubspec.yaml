@@ -1,0 +1,20 @@
+name: easy_db_hive
+description: "A new Flutter package project."
+version: 1.0.0
+homepage: https://github.com/Dragon-InterActive/easy_db_hive
+license: BSD-3-Clause
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.35.1'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  easy_db: ^1.0.0
+  hive_flutter: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
